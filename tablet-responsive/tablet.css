@@ -69,4 +69,24 @@
 }
 
 
+
+
+.latest{
+    width: 100%;
+    margin: 20px auto;
+}
+
+.contact{
+    width: 100%;
+    padding: 0 30px;
+}
+
+
+.input{
+     padding: 23px 250px 22px 22px;
+     margin: 0 auto;
+}
+
+
+
 }
