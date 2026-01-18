@@ -6,9 +6,45 @@
     gap: 80px;
 }
 
+.banner-img{
+    width: 100%;
+}
 .banner-img img{
     width: 100%;
     margin: 0 auto;
 }
+
+
+
+.features{
+    margin: 100px auto;
+}
+.features-title{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+
+.features-items{
+    gap: 20px;
+    padding-right: 50px;
+    padding-left: 50px;
+
+}
+.features-items img{
+    width: 100%;
+}
+
+
+.ad-banner{
+    padding-right:50px;
+    padding-left:50px;
+    margin: 80px auto;
+}
+
+
+
+
+
 
 }
