@@ -1,0 +1,14 @@
+@media screen and (min-width:577px) and (max-width:992px) {
+
+.banner{
+    width: 100%;
+    padding: 50px;
+    gap: 80px;
+}
+
+.banner-img img{
+    width: 100%;
+    margin: 0 auto;
+}
+
+}

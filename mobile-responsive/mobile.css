@@ -1,0 +1,18 @@
+@media screen and (max-width:576px) {
+
+.banner{
+    flex-direction: column-reverse;
+    text-align: center;
+    width: 100%;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    gap: 50px;
+}
+
+.banner-img img{
+    width: 100%;
+    margin: 0 auto;
+}
+
+}
