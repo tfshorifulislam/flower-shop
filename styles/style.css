@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.lato-font{
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.banner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(229, 84, 115, 0.1);
+    padding-top: 50px;
+    padding-left: 240px;
+    padding-right: 240px;
+    gap: 129px;
+    max-width: 1920px;
+    margin: 0 auto;
+}
+
+
+.banner-heading{
+    font-size: 4rem;
+    font-weight: 800;
+    line-height: 100%;
+    color: #272727;
+    margin-bottom: 32px;
+}
+
+.banner-description{
+    font-size: 1rem;
+    line-height: 30px;
+    color: rgba(39, 39, 39, 0.6);
+    margin-bottom: 32px;
+}
+
+.shop-btn{
+    background-color:#E55473 ;
+    border: none;
+    border-radius:8px ;
+    color:white ;
+    font-size: 1.25rem;
+    padding:20px 43px ;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.banner-img{
+    max-width: 635px;
+}
