@@ -10,11 +10,13 @@
   font-style: normal;
 }
 
+header{
+    background-color: rgba(229, 84, 115, 0.1);
+}
 .banner{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: rgba(229, 84, 115, 0.1);
     padding-top: 50px;
     padding-left: 240px;
     padding-right: 240px;
@@ -115,7 +117,7 @@
     background-color: rgba(39, 39, 39, 0.05);
     max-width: 1440px;
     padding: 86px 175px;
-    margin: 0 auto;
+    margin: 128px auto;
 }
 
 .ad-banner-container{
@@ -136,4 +138,78 @@
     line-height: 35px;
     color: rgba(39, 39, 39, 0.8);
     text-align: center;
+}
+
+.offer{
+    background-color: rgba(229, 84, 115, 0.05);
+}
+
+.offer-container{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1920px;
+    margin: 0 auto;
+    padding: 130px 400px;
+    align-items: center;
+}
+
+.offer-text{
+    margin: 0 auto;
+}
+
+.offer-text h2{
+    font-size: 2.5rem;
+    font-weight: 800;
+    color: #272727;
+    margin-bottom: 24px;
+    text-align: center;
+}
+
+.offer-text p{
+    font-size: 1.125rem;
+    line-height: 30px;
+    padding-bottom: 32px;
+    color: rgba(39, 39, 39, 0.6);
+    text-align: center;
+    max-width: 594px;
+    margin: 0 auto;
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+}
+
+.insta{
+  margin-top: 128px;
+  margin-bottom: 128px;
+
+}
+
+.insta-text{
+    text-align: center;
+    margin: 0 auto;
+    max-width: 594px;
+}
+
+.insta-text-heading h3{
+    font-size: 2.5rem;
+    font-weight: 800;
+    margin-bottom: 24px;
+    color: #272727;
+}
+
+.insta-text-description p{
+    font-size:1.125rem ;
+    line-height: 30px;
+    color: rgba(39, 39, 39, 0.6);
+    margin-bottom: 48px;
+}
+
+.insta-img{
+    max-width: 1140px;
+    margin: 0 auto;
+    display: flex;
+    gap: 24px;
+    justify-content:center;
 }
