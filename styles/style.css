@@ -111,3 +111,29 @@
     text-decoration: underline;
 }
 
+.ad-banner{
+    background-color: rgba(39, 39, 39, 0.05);
+    max-width: 1440px;
+    padding: 86px 175px;
+    margin: 0 auto;
+}
+
+.ad-banner-container{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+
+
+.card img{
+    margin-bottom: 24px;
+}
+
+.card p{
+    font-size: 1.3rem;
+    font-weight: 500;
+    line-height: 35px;
+    color: rgba(39, 39, 39, 0.8);
+    text-align: center;
+}
