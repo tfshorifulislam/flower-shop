@@ -44,7 +44,29 @@
 
 
 
+.offer-container{
+   width: 100%;
+    padding: 10px 10px;
+}
 
+
+.insta{
+  margin-top: 100px;
+  margin-bottom: 100px;
+
+}
+
+.insta-img{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+.insta-img img{
+    width: 100%;
+}
 
 
 }
