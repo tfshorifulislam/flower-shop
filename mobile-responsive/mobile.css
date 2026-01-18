@@ -88,4 +88,54 @@
 }
 
 
+.latest{
+    height: auto;
+    width: 100%;
+    margin: 20px auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact{
+    width: 100%;
+    padding: 20px 20px;
+    flex-direction: column;
+    gap: 10px;
+}
+.input{
+    padding: 15px 100px 15px 15px;
+    
+}
+
+.contact .shop-btn{
+    border-radius: 4px;
+    font-size: 1rem;
+    padding: 15px 20px;
+}
+
+.latest-container{
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.latest-title h3{
+    font-size: 1.5rem;
+    padding-bottom: 5px;
+    align-items: center;
+    
+}
+
+.latest-title p{
+    font-size: 0.75rem;
+    line-height: 20px;
+    padding-bottom: 30px;
+    text-align: center;
+
+}
+
+
+
+
+
 }
